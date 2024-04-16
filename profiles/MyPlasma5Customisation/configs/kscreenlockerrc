@@ -1,0 +1,7 @@
+[$Version]
+update_info=kscreenlocker.upd:0.1-autolock
+
+[Greeter][Wallpaper][org.kde.image][General]
+Image=/home/ate329/.local/share/wallpapers/Utterly-Nord/
+PreviewImage=/home/ate329/.local/share/wallpapers/Utterly-Nord/
+SlidePaths=/usr/share/wallpapers/

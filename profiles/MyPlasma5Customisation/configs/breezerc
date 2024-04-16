@@ -1,0 +1,7 @@
+[Common]
+OutlineCloseButton=true
+
+[Windeco]
+ButtonSize=ButtonLarge
+DrawBackgroundGradient=true
+DrawBorderOnMaximizedWindows=true

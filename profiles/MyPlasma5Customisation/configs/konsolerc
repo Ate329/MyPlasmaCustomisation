@@ -1,0 +1,24 @@
+[General]
+ConfigVersion=1
+
+[MainWindow]
+1440x900 screen: Height=862
+1440x900 screen: Width=1432
+1477x923 screen: Height=864
+1477x923 screen: Width=359
+1477x923 screen: Window-Maximized=true
+1516x947 screen: Height=552
+1516x947 screen: Width=911
+1557x973 screen: Height=582
+1557x973 screen: Width=911
+2560x1440 screen: Height=552
+2560x1440 screen: Width=911
+2880x1800 screen: Height=543
+2880x1800 screen: Width=904
+MenuBar=Disabled
+RestorePositionForNextInstance=false
+State=AAAA/wAAAAD9AAAAAQAAAAAAAAAAAAAAAPwCAAAAAvsAAAAiAFEAdQBpAGMAawBDAG8AbQBtAGEAbgBkAHMARABvAGMAawAAAAAA/////wAAAXwBAAAD+wAAABwAUwBTAEgATQBhAG4AYQBnAGUAcgBEAG8AYwBrAAAAAAD/////AAABFQEAAAMAAAOPAAAB+gAAAAQAAAAEAAAACAAAAAj8AAAAAQAAAAIAAAACAAAAFgBtAGEAaQBuAFQAbwBvAGwAQgBhAHIBAAAAAP////8AAAAAAAAAAAAAABwAcwBlAHMAcwBpAG8AbgBUAG8AbwBsAGIAYQByAQAAAOj/////AAAAAAAAAAA=
+ToolBarsMovable=Disabled
+
+[UiSettings]
+ColorScheme=

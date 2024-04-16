@@ -1,0 +1,13 @@
+[$Version]
+update_info=delete_cursor_old_default_size.upd:DeleteCursorOldDefaultSize,kcminputrc_fix_botched_5_21_0.upd:kcminputrc_fix_botched_5_21_0_pre,kcminputrc_fix_botched_5_21_0.upd:kcminputrc_fix_botched_5_21_0,kcminputrc_repeat.upd:kcminputrc_migrate_key_repeat
+
+[Libinput][2362][597][PNP0C50:00 093A:0255 Touchpad]
+ClickMethod=2
+ScrollFactor=0.75
+TapToClick=true
+
+[Mouse]
+X11LibInputXAccelProfileFlat=true
+
+[Tmp]
+update_info=delete_cursor_old_default_size.upd:DeleteCursorOldDefaultSize
